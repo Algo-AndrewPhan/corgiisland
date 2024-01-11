@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(192, 245, 195);
+}
+header {
+    text-align: center;
+    padding: 10px;
+    background-color: greenyellow;
+}
+header a {
+    font-size: 60px;
+}
+nav {
+    text-align: center;
+}
+h1, nav a {
+    text-align: center;
+    padding: 10px;
+    background-color:green;
+    color: black;
+    text-decoration: none;
+    margin: 5px;
+    border-radius: 50px;
+    font-size: 20px;
+}
+main p {
+    text-align: center;
+}
+main p a {
+    background-color:gold;
+    text-decoration: none;
+    margin: 5px;
+    border-radius: 30px;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+}
+main h2 {
+    font-size: 15px;
+    color: red;
+    text-align: center;
+}
+tr, td {
+    border: 1px solid brown;
+}
+table {
+    border: 3px solid brown;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer {
+    background-color: greenyellow;
+}
+footer p {
+    font-size: 15px;
+}
