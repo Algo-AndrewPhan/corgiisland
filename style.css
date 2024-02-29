@@ -6,12 +6,15 @@ header {
     text-align: center;
     padding: 10px;
     background-color: greenyellow;
+    border: 5px dashed rgba(18, 70, 180, 0.747);
 }
 header a {
     font-size: 60px;
 }
 nav {
     text-align: center;
+    margin: 20px 50px 20px 50px;
+    padding: 10px 50px 10px 50px;
 }
 h1, nav a {
     text-align: center;
@@ -35,6 +38,7 @@ main p a {
     text-align: center;
     padding: 10px;
 }
+
 main h2 {
     font-size: 15px;
     color: red;
